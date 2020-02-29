@@ -6,6 +6,7 @@ The main files are:
 
 - `resume.html`: Resume for Katie Gentry.
 - `resume.Rmd`: Source template for single page resume. 
+- `Katie_Gentry_resume.pdf`: Katie Gentry's resume in PDF form.
 - `positions.csv`: A csv with columns encoding the various fields needed for a position entry in the CV. A column `section` is also available so different sections know which rows to use.
 - `css/`: Directory containing the custom CSS files used to tweak the default 'resume' format from pagedown. 
 
